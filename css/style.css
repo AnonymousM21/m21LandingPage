@@ -185,3 +185,11 @@ a {
   color: #ffffff;
   border: 2px solid #ffffff;
 }
+
+.footer {
+  text-align: center;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 42px 0px;
+  font-size: 18px;
+}
